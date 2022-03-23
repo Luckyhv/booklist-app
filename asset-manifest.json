@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/booklist-app/static/css/main.f381118c.css",
+    "main.js": "/booklist-app/static/js/main.6f8f7f55.js",
+    "static/js/787.e577bf47.chunk.js": "/booklist-app/static/js/787.e577bf47.chunk.js",
+    "index.html": "/booklist-app/index.html",
+    "main.f381118c.css.map": "/booklist-app/static/css/main.f381118c.css.map",
+    "main.6f8f7f55.js.map": "/booklist-app/static/js/main.6f8f7f55.js.map",
+    "787.e577bf47.chunk.js.map": "/booklist-app/static/js/787.e577bf47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f381118c.css",
+    "static/js/main.6f8f7f55.js"
+  ]
+}
